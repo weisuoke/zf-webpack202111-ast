@@ -1,0 +1,35 @@
+{
+  "name": "zf-webpack202111-ast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/zf-webpack202111-ast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/zf-webpack202111-ast/issues"
+  },
+  "dependencies": {
+    "@babel/code-frame": "^7.16.7",
+    "@babel/core": "^7.17.4",
+    "@babel/parser": "^7.17.3",
+    "@babel/plugin-transform-classes": "^7.16.7",
+    "@babel/template": "^7.16.7",
+    "@babel/traverse": "^7.17.3",
+    "@babel/types": "^7.17.0",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.22.0",
+    "babylon": "^6.18.0",
+    "escodegen": "^2.0.0",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.3.0"
+  },
+  "homepage": "https://github.com/weisuoke/zf-webpack202111-ast#readme",
+  "description": ""
+}
